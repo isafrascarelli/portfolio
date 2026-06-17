@@ -16,7 +16,9 @@ const SobreMim = () =>{
 
             <p className={styles.paragrafo}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat sequi mollitia id eaque odio! Voluptates ab voluptatum, corporis similique, unde tenetur eaque nisi hic possimus asperiores obcaecati neque molestiae fuga. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia iste doloremque natus soluta, at dolorem, minima quos corporis assumenda ullam voluptas et fugiat in quaerat. Ea vero nisi vel mollitia.</p>
 
-            <p className={styles.paragrafo}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ex sunt labore impedit, aperiam laborum distinctio quod, ad vitae illo tenetur ipsum eos aut unde eum! Quia aperiam reprehenderit blanditiis.</p>
+            <p className={styles.paragrafo}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ex sunt labore impedit, aperiam laborum distinctio quod, ad vitae illo tenetur ipsum eos aut unde eum! Quia aperiam reprehenderit blanditiis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, perspiciatis illum nihil velit expedita tempore sint, itaque voluptate impedit quasi quibusdam corporis culpa, voluptates quisquam necessitatibus ut. Natus, dolorem alias.</p>
+
+            <p className={styles.paragrafo}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis sed nam molestiae quaerat earum quidem autem aliquam delectus, vitae tempora, error, ipsa maiores sapiente! Officiis culpa vitae velit ducimus corporis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi maxime nam consectetur cum. Vitae, ab odit hic reiciendis fugit exercitationem doloremque rerum delectus temporibus atque at cum nam praesentium ullam!</p>
 
            
         </PostModelo>
